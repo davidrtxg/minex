@@ -1,0 +1,2 @@
+# minex
+Mining
